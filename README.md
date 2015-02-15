@@ -1,6 +1,8 @@
 # qiniu-mac
 qiniu-mac客户端
 
+![](http://sdut-zrt.qiniudn.com/qiniumac.png)
+
 ### The MIT License (MIT)
 
 CopyRight (c) 2015 omi  &lt;<a href="4399.omi@gmail.com">4399.omi@gmail.com</a>&gt;
