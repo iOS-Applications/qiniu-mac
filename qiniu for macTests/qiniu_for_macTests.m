@@ -1,6 +1,6 @@
 //
-//  qiniu_macTests.m
-//  qiniu-macTests
+//  qiniu_for_macTests.m
+//  qiniu for macTests
 //
 //  Created by omi on 15/2/15.
 //  Copyright (c) 2015年 omi. All rights reserved.
@@ -9,11 +9,11 @@
 #import <Cocoa/Cocoa.h>
 #import <XCTest/XCTest.h>
 
-@interface qiniu_macTests : XCTestCase
+@interface qiniu_for_macTests : XCTestCase
 
 @end
 
-@implementation qiniu_macTests
+@implementation qiniu_for_macTests
 
 - (void)setUp {
     [super setUp];

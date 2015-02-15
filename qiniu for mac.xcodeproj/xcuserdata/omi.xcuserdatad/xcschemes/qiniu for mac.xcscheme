@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AF58B1321A905A3E003377AB"
-               BuildableName = "qiniu-mac.app"
-               BlueprintName = "qiniu-mac"
-               ReferencedContainer = "container:qiniu-mac.xcodeproj">
+               BlueprintIdentifier = "AF60B0D11A90B51700A55B95"
+               BuildableName = "qiniu for mac.app"
+               BlueprintName = "qiniu for mac"
+               ReferencedContainer = "container:qiniu for mac.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AF58B1481A905A3E003377AB"
-               BuildableName = "qiniu-macTests.xctest"
-               BlueprintName = "qiniu-macTests"
-               ReferencedContainer = "container:qiniu-mac.xcodeproj">
+               BlueprintIdentifier = "AF60B0E71A90B51700A55B95"
+               BuildableName = "qiniu for macTests.xctest"
+               BlueprintName = "qiniu for macTests"
+               ReferencedContainer = "container:qiniu for mac.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AF58B1481A905A3E003377AB"
-               BuildableName = "qiniu-macTests.xctest"
-               BlueprintName = "qiniu-macTests"
-               ReferencedContainer = "container:qiniu-mac.xcodeproj">
+               BlueprintIdentifier = "AF60B0E71A90B51700A55B95"
+               BuildableName = "qiniu for macTests.xctest"
+               BlueprintName = "qiniu for macTests"
+               ReferencedContainer = "container:qiniu for mac.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AF58B1321A905A3E003377AB"
-            BuildableName = "qiniu-mac.app"
-            BlueprintName = "qiniu-mac"
-            ReferencedContainer = "container:qiniu-mac.xcodeproj">
+            BlueprintIdentifier = "AF60B0D11A90B51700A55B95"
+            BuildableName = "qiniu for mac.app"
+            BlueprintName = "qiniu for mac"
+            ReferencedContainer = "container:qiniu for mac.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AF58B1321A905A3E003377AB"
-            BuildableName = "qiniu-mac.app"
-            BlueprintName = "qiniu-mac"
-            ReferencedContainer = "container:qiniu-mac.xcodeproj">
+            BlueprintIdentifier = "AF60B0D11A90B51700A55B95"
+            BuildableName = "qiniu for mac.app"
+            BlueprintName = "qiniu for mac"
+            ReferencedContainer = "container:qiniu for mac.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AF58B1321A905A3E003377AB"
-            BuildableName = "qiniu-mac.app"
-            BlueprintName = "qiniu-mac"
-            ReferencedContainer = "container:qiniu-mac.xcodeproj">
+            BlueprintIdentifier = "AF60B0D11A90B51700A55B95"
+            BuildableName = "qiniu for mac.app"
+            BlueprintName = "qiniu for mac"
+            ReferencedContainer = "container:qiniu for mac.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
