@@ -1,5 +1,6 @@
 # qiniu-mac
-qiniu-mac客户端
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.txt) 
+[![versions](https://img.shields.io/badge/versions%20-%20%200.1-blue.svg)]() [![platform](https://img.shields.io/badge/platform%20-%20osx-lightgrey.svg)]() [![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)]()
 
 ![](http://sdut-zrt.qiniudn.com/qiniumac.png)
 
